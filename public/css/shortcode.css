@@ -3285,8 +3285,8 @@ blockquote p {
 .pbmit-button-box .pbmit-header-button a:hover:before{
 	background-color: var(--pbmit-blackish-color);
 }
-.header-style-1 .pbmit-header-search-btn{
-	padding: 0 30px;
+.header-style-1 .pbmit-button-box{
+	padding-right: 30px;
 }
 .pbmit-header-search-btn a{
 	font-size: 22px;
