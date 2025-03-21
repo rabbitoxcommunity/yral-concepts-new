@@ -1,0 +1,24 @@
+{
+    "name": "yral-concepts",
+    "version": "1.0.0",
+    "description": "A Node.js project using Express, MongoDB and EJS with MVC architecture",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "ejs": "^3.1.10",
+        "express": "^4.21.2",
+        "express-ejs-layouts": "^2.5.1",
+        "method-override": "^3.0.0",
+        "mongoose": "^7.8.6"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
